@@ -1,0 +1,42 @@
+.login {
+    width: 30%;
+    height: 20vw;
+    background-color: #5f56f5;
+    margin: 10vw auto;
+    border-radius: 10px;
+    border: 4px solid #fff;
+}
+
+.errors > p {
+    color: #fff;
+}
+
+input {
+    width: 18rem;
+    outline: none;
+    border: 1px solid #000000;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    transform: translate(0%, 5vw);
+    border-radius: 10px;
+}
+
+button {
+    border: 1px solid #fff;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 100px auto;
+    padding: 10px;
+    background-color: salmon;
+    color: #fff;    
+    font-size: 1.05rem;
+    font-weight: 700;
+}
+
+.message {
+    width: 20%;
+    padding: 10px;
+    background-color: #fff;
+    margin: 5rem auto;
+}
